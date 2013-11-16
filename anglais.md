@@ -8,7 +8,7 @@ Open data can become a reliable information source for researchers, journalists 
 
 Open data paves the way to the creation of useful software. For example, the city publishes some data on the internet: bus schedules, locations of bus stops and sidewalk heights. Developers can freely reuse the data to make phone apps that help people with disabilities access public transit.
 
-Open data makes it possible for businesses to develop new, innovative services.
+Open data makes it possible for businesses to develop new, innovative products and services.
 
 Open data makes government accessible and comprehensible. Governments publish data about projects, decisions, and public accounts, and this facilitates citizen engagement.
 
