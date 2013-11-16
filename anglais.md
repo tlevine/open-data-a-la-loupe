@@ -10,7 +10,7 @@ Open data paves the way to the creation of useful software. For example, the cit
 
 Open data makes it possible for businesses to develop new, innovative services.
 
-Open data makes public action accessible and comprehensible: projects, decisions, public accounts. It facilitates citizen engagement.
+Open data makes government accessible and comprehensible: projects, decisions, public accounts. It facilitates citizen engagement.
 
 Finally, open data shines some light on improvements in public services by making them visible, accessible (and reactive???). We're not in the 20th century anymore.
 
