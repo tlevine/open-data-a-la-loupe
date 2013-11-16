@@ -6,7 +6,7 @@ Governments are required by law to release public data. A legal framework define
 
 Open data can become a reliable information source for researchers, journalists and citizens.
 
-Open data paves the way to the creation of useful software. For example, the city publishes some data on the internet: bus schedules, geolocations of bus stops and [something about the sidewalk]. Developers can freely reuse the data to make phone apps that help people with disabilities access public transit.
+Open data paves the way to the creation of useful software. For example, the city publishes some data on the internet: bus schedules, geolocations of bus stops and sidewalk heights. Developers can freely reuse the data to make phone apps that help people with disabilities access public transit.
 
 Open data makes it possible for businesses to develop new, innovative services.
 
