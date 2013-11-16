@@ -12,6 +12,6 @@ Open data makes it possible for businesses to develop new, innovative services.
 
 Open data makes government accessible and comprehensible. Governments publish data about projects, decisions, and public accounts, and this facilitates citizen engagement.
 
-Finally, open data shines some light on improvements in public services by making them visible, accessible (and reactive???). We're not in the 20th century anymore.
+Finally, open data changes our perspective on government services by making them visible, accessible (and reactive???). We're not in the 20th century anymore.
 
 Everyone wins when we open up data.
