@@ -1,6 +1,6 @@
 #!/bin/sh
 set -e
-textstart=$((97*24))
+textstart=97 # seconds
 
 ffmpeg -i français.webm -i anglais.ogg \
   -map 0:0 -map 1:0 -c:0 libvpx -c:1 libvorbis \
