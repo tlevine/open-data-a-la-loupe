@@ -1,17 +1,17 @@
 <?xml version="1.0" standalone="no" ?>
 <!DOCTYPE project PUBLIC "-//audacityproject-1.3.0//DTD//EN" "http://audacity.sourceforge.net/xml/audacityproject-1.3.0.dtd" >
-<project xmlns="http://audacity.sourceforge.net/xml/" projname="anglais_data" version="1.3.0" audacityversion="2.0.5" sel0="0.7430385488" sel1="0.7430385488" vpos="0" h="82.5469387755" zoom="86.1328125000" rate="44100.0">
+<project xmlns="http://audacity.sourceforge.net/xml/" projname="anglais_data" version="1.3.0" audacityversion="2.0.5" sel0="7.9876643991" sel1="7.9876643991" vpos="0" h="0.0000000000" zoom="86.1328125000" rate="44100.0">
 	<tags>
 		<tag name="Software" value="Lavf55.19.104"/>
 	</tags>
-	<wavetrack name="anglais-sans-musique" channel="0" linked="1" mute="0" solo="0" height="150" minimized="0" isSelected="1" rate="44100" gain="1.584893" pan="0.0">
+	<wavetrack name="anglais-sans-musique" channel="0" linked="1" mute="0" solo="1" height="150" minimized="0" isSelected="1" rate="44100" gain="1.584893" pan="0.0">
 		<waveclip offset="0.56888889">
 			<sequence maxsamples="262144" sampleformat="262159" numsamples="4398376">
 				<waveblock start="0">
-					<simpleblockfile filename="e0000ac2.au" len="262144" min="-0.151408" max="0.125802" rms="0.009604"/>
+					<silentblockfile len="262144"/>
 				</waveblock>
 				<waveblock start="262144">
-					<simpleblockfile filename="e0000dfb.au" len="262144" min="-0.715848" max="0.47315" rms="0.049076"/>
+					<simpleblockfile filename="e0000cad.au" len="262144" min="-0.715848" max="0.47315" rms="0.049072"/>
 				</waveblock>
 				<waveblock start="524288">
 					<simpleblockfile filename="e00004ca.au" len="262144" min="-0.450328" max="0.405239" rms="0.050716"/>
@@ -62,14 +62,14 @@
 			<envelope numpoints="0"/>
 		</waveclip>
 	</wavetrack>
-	<wavetrack name="anglais-sans-musique" channel="1" linked="0" mute="0" solo="0" height="150" minimized="0" isSelected="1" rate="44100" gain="1.584893" pan="0.0">
+	<wavetrack name="anglais-sans-musique" channel="1" linked="0" mute="0" solo="1" height="150" minimized="0" isSelected="1" rate="44100" gain="1.584893" pan="0.0">
 		<waveclip offset="0.56888889">
 			<sequence maxsamples="262144" sampleformat="262159" numsamples="4398376">
 				<waveblock start="0">
-					<simpleblockfile filename="e0000da2.au" len="262144" min="-0.155305" max="0.128586" rms="0.009806"/>
+					<silentblockfile len="262144"/>
 				</waveblock>
 				<waveblock start="262144">
-					<simpleblockfile filename="e0000424.au" len="262144" min="-0.732826" max="0.485118" rms="0.050186"/>
+					<simpleblockfile filename="e0000927.au" len="262144" min="-0.732826" max="0.485118" rms="0.050182"/>
 				</waveblock>
 				<waveblock start="524288">
 					<simpleblockfile filename="e00003b5.au" len="262144" min="-0.461461" max="0.412754" rms="0.051863"/>
@@ -120,7 +120,7 @@
 			<envelope numpoints="0"/>
 		</waveclip>
 	</wavetrack>
-	<wavetrack name="français" channel="2" linked="0" mute="0" solo="0" height="150" minimized="0" isSelected="0" rate="44100" gain="1.0" pan="0.0">
+	<wavetrack name="français" channel="2" linked="0" mute="0" solo="0" height="150" minimized="1" isSelected="0" rate="44100" gain="1.0" pan="0.0">
 		<waveclip offset="0.00000000">
 			<sequence maxsamples="262144" sampleformat="262159" numsamples="4483072">
 				<waveblock start="0">
@@ -181,7 +181,7 @@
 			<envelope numpoints="0"/>
 		</waveclip>
 	</wavetrack>
-	<wavetrack name="français" channel="2" linked="0" mute="1" solo="0" height="150" minimized="0" isSelected="0" rate="44100" gain="1.0" pan="0.0">
+	<wavetrack name="français" channel="2" linked="0" mute="0" solo="0" height="150" minimized="1" isSelected="0" rate="44100" gain="1.0" pan="0.0">
 		<waveclip offset="0.00000000">
 			<sequence maxsamples="262144" sampleformat="262159" numsamples="4483072">
 				<waveblock start="0">
